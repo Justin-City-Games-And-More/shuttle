@@ -15,10 +15,6 @@ const routes = [
 
 const navItems = [
 	["/", "Home"],
-	["/math", "Games"],
-	["/physics", "Apps"],
-	["/history", "Chat"],
-	["/settings", "Settings"]
 ];
 
 const bare = createBareServer("/bare/");
